@@ -1,5 +1,6 @@
 import streamlit as st
 import numpy as np
+import moviepy
 import cv2
 from moviepy.editor import VideoFileClip
 import time
