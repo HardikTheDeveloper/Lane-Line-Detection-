@@ -77,7 +77,7 @@ The following concepts are utilized in this project:
   ![Before Processing](examples/example-before.jpg)
 
   **After Processing:**
-  ![After Processing](examples/example-after.jpg)
+  ![After Processing](examples/example_after.jpg)
 
 ## Future Improvements
 
