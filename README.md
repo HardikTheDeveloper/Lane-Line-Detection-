@@ -74,10 +74,10 @@ The following concepts are utilized in this project:
 - Here’s an example of the result:
 
   **Before Processing:**
-  ![Before Processing](examples\example-before.png)
+  ![Before Processing](examples/example-before.png)
 
   **After Processing:**
-  ![After Processing](examples\example-after.png)
+  ![After Processing](examples/example-after.png)
 
 ## Future Improvements
 
